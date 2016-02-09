@@ -1,0 +1,2 @@
+# gitpack
+Git based packaging
